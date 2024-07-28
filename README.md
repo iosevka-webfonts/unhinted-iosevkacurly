@@ -1,4 +1,4 @@
-# Unhinted Iosevkacurly WebFont 30.3.3
+# Unhinted Iosevkacurly WebFont 31.0.0
 
 ## How to use
 
